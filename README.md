@@ -2,6 +2,8 @@
 
 Aplikasi inventaris sederhana dengan frontend HTML/CSS/JavaScript dan backend Node.js bawaan. Database menggunakan Supabase PostgreSQL. Tidak memakai `package.json` maupun `env.example`.
 
+Website= https://muhammadfauzan3407-droid.github.io/Sistem-Persediaan-Pancingku/
+
 ## Struktur
 
 ```text
